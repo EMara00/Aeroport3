@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="laba4.MainContr">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\MainContr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.FieldTypeCol">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\FildTypeCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.FirmCol">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABAAAAAAAAAAAAAAAAAAABAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\FirmCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.Filter">
+    <Position X="20" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAIAAAAAAAAAAAAABAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>NewFolder1\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.FirmMngr">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAASAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\FirmMngr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.FilterContr">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEQABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\FilterContr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.LogExpFactory">
+    <Position X="18.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAEAAAAAABA=</HashCode>
+      <FileName>NewFolder1\LogExpFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.frmCreate">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAEAAAAAAAACAAAAAAAIAAAEAAAABAAAAAAAAAA=</HashCode>
+      <FileName>frmCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.frmFilter">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAABCAgAAAAAACAAAAGAAAQAAAAAEQAAAEAAII=</HashCode>
+      <FileName>NewFolder1\frmFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.frmMain">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAAAAAAAAAAAAAAAAEAAAAAAMCAAEAAAAA=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.Field" Collapsed="true">
+    <Position X="11.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAIAIAAAAgAAAIAAAAAAAAAAACAAAAAAAAAABAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.SurnameField" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.NameField" Collapsed="true">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.FamilyField" Collapsed="true">
+    <Position X="14" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.DocumentField" Collapsed="true">
+    <Position X="9.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.CitizenshipField" Collapsed="true">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.CompanyField" Collapsed="true">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.ClassField" Collapsed="true">
+    <Position X="11.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.DateFromField" Collapsed="true">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.CountryFromField" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.CountryToField" Collapsed="true">
+    <Position X="14.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba4.Passenger">
+    <Position X="2.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\Passenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.frmCreate">
+    <Position X="26.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UCCAMAOAASAAAFiCEQLCAEBKIAg8AAAA1BgCRAEBAIA=</HashCode>
+      <FileName>frmCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.frmGuest">
+    <Position X="28.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAECAQCAggAACAAABCAAgSAAAWAAIASAgAgAA=</HashCode>
+      <FileName>frmGuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.frmMain">
+    <Position X="30.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYAAIAgECAACVgEARKCAEYqBAk6EAQSFXKOSJjAoAA=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.AddPass">
+    <Position X="10.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAEAAAA=</HashCode>
+      <FileName>AddPass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.Authorization">
+    <Position X="12.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAQAACAAABggAACEAQACQAAAEAAAJAAQAABAIAA=</HashCode>
+      <FileName>Authorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.AuthorizationUser">
+    <Position X="16" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAEAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AuthorizationUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.DeletePass">
+    <Position X="16" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAACAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeletePass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.GetPass">
+    <Position X="10.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAAIAAA=</HashCode>
+      <FileName>GetPass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.UserId">
+    <Position X="10.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>UserId.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aeroport.SearchForm">
+    <Position X="14.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAABCAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>SearchForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="laba4.ILogExp">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewFolder1\ILogExp.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
